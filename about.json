@@ -1,0 +1,35 @@
+{
+    "main": {
+        "title": "About Incognito",
+        "data": "Access the world wide web, Incognito is an anti-censorship web service."
+    },
+    "authors": [
+        {
+            "name": "Syna",
+            "data": "Finn"
+        },
+        {
+            "name": "TN",
+            "data": "Titanium Network"
+        },
+        {
+            "name": "<a href=\"https://hobo-helper.glitch.me\">Syna</a>",
+            "data": "Creator of <a href=\"https://hobo-helper.glitch.me\">The Hobo Helper</a>"
+        }
+    ],
+    "socials": [
+        {
+            "name": "<a href=\"https://hobo-helper.glitch.me\">The Hobo Helper</a>",
+            "data": "The Hobo Helper helps get beautiful hobos off the streets"
+        },
+        {
+            "name": "<a href=\"https://hobo-helper.glitch.me\">Help the Hobos today!</a>",
+            "data": "The Ho&#173;bo&#173;s&#173; Netwo&#173;rk &#173;Game Server."
+        }
+    ],
+    "contact": [
+        {
+            "name": "Message me on <a href=\"https://discord.com\">Discord</a>: $yna#5745"
+        }
+    ]
+}
